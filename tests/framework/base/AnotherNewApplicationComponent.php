@@ -12,3 +12,4 @@ class AnotherNewApplicationComponent extends CApplicationComponent {
 		return $this->_text=$value;
 	}
 }
+//ok
